@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "second commit" );
         System.out.println( "third commit from integration" );
+        System.out.println( "fourth commit from integration in Github" );
     }
 }
